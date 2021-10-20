@@ -1,5 +1,5 @@
 ### Naster
-Dark Deluge theme derived from Mantis
+Dark Deluge 2.0 theme derived from Mantis
 
 
 ![Naster / Deluge theme](https://github.com/xjxckk/Naster/blob/main/preview.png)
@@ -11,3 +11,4 @@ Dark Deluge theme derived from Mantis
 * Move the Naster folder to /data/share/themes
 * Go to this folder /data/etc/gtk-3.0
 * Open settings.ini and set gtk-theme-name to Naster
+* Restart Deluge
