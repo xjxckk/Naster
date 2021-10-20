@@ -1,6 +1,10 @@
 ### Naster
 Dark Deluge theme derived from Mantis
+
+
 ![ProtonMail Theme](https://github.com/xjxckk/Naster/blob/main/preview.png)
+
+
 ### How to use:
 * Open ProtonMail
 * Go to Settings
