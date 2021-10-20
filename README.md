@@ -2,7 +2,7 @@
 Dark Deluge theme derived from Mantis
 
 
-![ProtonMail Theme](https://github.com/xjxckk/Naster/blob/main/preview.png)
+![Naster / Deluge theme](https://github.com/xjxckk/Naster/blob/main/preview.png)
 
 
 ### How to use:
