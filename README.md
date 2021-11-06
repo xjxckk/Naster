@@ -15,7 +15,7 @@ Dark Deluge 2.0 theme derived from Mantis
 
 ### Colour palette:
 * Background: #202020
-* Accent: white (#fff)
+* Accent: #fff
 * Tertiary: #191919
 * Tertiary accent: #313131
 
