@@ -20,5 +20,12 @@ Dark Deluge 2.0 theme derived from Mantis
 * Tertiary accent: #313131
 
 
+### Light colour palette:
+* Background: #f7f7f7
+* Accent: #556b82
+* Tertiary: #fff
+* Tertiary accent: #14151f
+
+
 ### Font:
 Whitney, Helvetica Neue, Helvetica, Open Sans Semibold, Arial, sans-serif;
